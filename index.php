@@ -29,7 +29,7 @@
          </li>
          <li  class="ver badge navegacion-menu-item ultimo-item">
             <a href="#bannerSocial" style="text-decoration:none;color:#FFF" title="bannerSocial">
-               <div class="lista">Contáctenos</div>
+               <div class="lista">Contáctanos</div>
             </a>
          </li>
             <!-- <li  class="ver badge navegacion-menu-item">
@@ -367,7 +367,7 @@
       </div>
       <div id="bannerSocial" class="row-fluid parallax-seccion secciones" id="seccion-contacto" style="background-image: url('asset/img/home/IMg-Contacto-home.jpg'); background-position: 50% 50%;">
          <div class="span5 offset1 text-left contenedor-contacto contenedor-centrar">
-            <h1 class="seccion-titular texto-blanco">CONTÁCTENOS</h1>
+            <h1 class="seccion-titular texto-blanco">CONTÁCTANOS</h1>
             <hr class="hr-noticia">
             <h3 class="seccion-subtitular texto-blanco">Descubre todo lo que Cervecería Nacional tiene para ti.</h3>
             <br /><br />

@@ -2705,11 +2705,16 @@ a.blanco:hover{
 	.btn-linkPolitica{
 		font-size: 16px;
 	}
+	.titularpubs{
+		font-size: 16px;
+	}
 }
 
 /* Large desktop */
 @media (min-width: 1200px) {
-
+	.tituloFichaContacto{
+		min-height: 60px;
+	}
 }
  
 /* Portrait tablet to landscape and desktop */
@@ -2717,12 +2722,18 @@ a.blanco:hover{
 	.#carouselPrioridades .carousel-indicators {
 		left: 15%;
 	}
+	.titularpubs{
+		font-size: 13px;
+	}
 }
  
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
 	.#carouselPrioridades .carousel-indicators {
 		left: 15%;
+	}
+	.titularpubs{
+		font-size: 10px;
 	}
 }
  
@@ -2980,4 +2991,14 @@ a.blanco:hover{
 .espaciado-a{
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+.underHeader{
+	height: 47px;
+}
+.iconoCont{
+	width: 20%;
+	float: left;
+}
+.clearfix{
+	clear: both;
 }

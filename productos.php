@@ -71,9 +71,9 @@
                   <div class="contenedor-centrar">
                      <div class="row-fluid text-center">
                         <div class="span8 offset2">
-                           <h1 class="titular-acceso">Cervezas</h1>
+                           <h1 class="titular-acceso">Bebidas de Moderación</h1>
                            <h3 class="texto-acceso">
-                              Conoce más sobre nuestras bebidas de moderación.
+                              Conoce nuestros productos.
                            </h3>
                            <br />
                            <div class="icono mas-rojo"></div>
@@ -92,7 +92,7 @@
                         <div class="span8 offset2">
                            <h1 class="titular-acceso">Refrescos</h1>
                            <h3 class="texto-acceso">
-                              Conoce más sobre nuestros refrescos.
+                              Conoce nuestros productos.
                            </h3>
                            <br />
                            <div class="icono mas-rojo"></div>

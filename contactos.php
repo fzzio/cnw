@@ -11,7 +11,7 @@
          
          
            var ancho = $(window).width(); 
-           var ancho_aplicar = ancho / 7 ;
+           var ancho_aplicar = ancho / 5 ;
            var ancho_aplicar = ancho_aplicar - 1;
            $(".flotadores").css("width",   ancho_aplicar + "px");
            centrarVert($(".texto-acceso2"));
@@ -68,8 +68,8 @@
                         <div class="textocentrado">COMUNÍQUESE CON NOSOTROS</div>
                      </div>
                   </div>
-                  <div class="row-fluid iconosContacto">
-                     <div class="span4 text-center">
+                  <div class="row-fluid iconosContacto hidden-desktop hidden-tablet">
+                     <div class="span3 text-center">
                         <div class="row-fluid">
                            <div class="span12">
                               <img class="img-responsive" src="asset/img/iconos/Icon-Direccion.png">
@@ -89,7 +89,7 @@
                            </div>
                         </div>
                      </div>
-                     <div class="span4 text-center">
+                     <div class="span3 text-center">
                         <div class="row-fluid">
                            <div class="span12">
                               <img class="img-responsive" src="asset/img/iconos/Icon-Telefono.png">
@@ -109,7 +109,7 @@
                            </div>
                         </div>
                      </div>
-                     <div class="span4 text-center">
+                     <div class="span3 text-center">
                         <div class="row-fluid">
                            <div class="span12">
                               <img class="img-responsive" src="asset/img/iconos/Icon-Atencion-al-cliente.png">
@@ -128,7 +128,146 @@
                            </div>
                         </div>
                      </div>
+                     <div class="span3 text-center">
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <img class="img-responsive" src="asset/img/iconos/Icon-etica.png">
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="tituloFichaContacto">
+                                 <p>Ética</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="direccionFicha">1800 000 000</div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="span3 text-center">
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <img class="img-responsive" src="asset/img/iconos/Icon-Eventos.png">
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="tituloFichaContacto">
+                                 <p>Eventos</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="direccionFicha">1800 012 345</div>
+                           </div>
+                        </div>
+                     </div>
                   </div>
+
+                  <div class="row-fluid iconosContacto hidden-phone">
+                     <div class="iconoCont text-center">
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <img class="img-responsive" src="asset/img/iconos/Icon-Direccion.png">
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="tituloFichaContacto">
+                                 <p>Dirección</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="direccionFicha"><strong>Guayaquil: </strong>Km. 16,5 Vía a Daule, Guayaquil</div>
+                              <div class="direccionFicha"><strong>Quito: </strong>Av. Francisco de Orellana, Parroquia Cumbaya</div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="iconoCont text-center">
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <img class="img-responsive" src="asset/img/iconos/Icon-Telefono.png">
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="tituloFichaContacto">
+                                 <p>Teléfono</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="direccionFicha"><strong>Guayaquil: </strong>(04) 2162088</div>
+                              <div class="direccionFicha"><strong>Quito: </strong>(02) 3978600</div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="iconoCont text-center">
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <img class="img-responsive" src="asset/img/iconos/Icon-Atencion-al-cliente.png">
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="tituloFichaContacto">
+                                 <p>Atención al cliente</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="direccionFicha">1800 012 345</div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="iconoCont text-center">
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <img class="img-responsive" src="asset/img/iconos/Icon-etica.png">
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="tituloFichaContacto">
+                                 <p>Ética</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="direccionFicha">1800 000 000</div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="iconoCont text-center">
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <img class="img-responsive" src="asset/img/iconos/Icon-Eventos.png">
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="tituloFichaContacto">
+                                 <p>Eventos</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row-fluid">
+                           <div class="span12">
+                              <div class="direccionFicha">1800 012 345</div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+
                   <div class="row-fluid">
                      <div class="span8 offset2">
                         <div class="textocentrado subtitulo subtituloNegritaMayus">Ingrese en una de las opciones según sea su necesidad.</div>
@@ -165,7 +304,7 @@
                </div>
                <div class="acceso flotadores">
                   <img src="asset/img/contactos/3-Trabajadores.jpg" class="" alt="">
-                  <a href="contactenos.php" class="caption-accesocontacto" >
+                  <a href="trabajaencn.php" class="caption-accesocontacto" >
                      <div class="rojo">
                         <div class=" texto-acceso2">
                            Quieres trabajar en CN
@@ -176,7 +315,7 @@
                      </div>
                   </a>
                </div>
-               <div class="acceso flotadores">
+               <!-- <div class="acceso flotadores">
                   <img src="asset/img/contactos/7-Visita-Planta.jpg" class="" alt="">
                   <a href="visita.php" class="caption-accesocontacto" >
                      <div class="rojo">
@@ -188,7 +327,7 @@
                         </div>
                      </div>
                   </a>
-               </div>
+               </div> -->
                <div class="acceso flotadores">
                   <img src="asset/img/contactos/4-Distribuidores.jpg" class="" alt="">
                   <a href="contactenos.php" class="caption-accesocontacto" >
@@ -202,7 +341,7 @@
                      </div>
                   </a>
                </div>
-               <div class="acceso flotadores">
+               <!-- <div class="acceso flotadores">
                   <img src="asset/img/contactos/5-Eventos.jpg" class="" alt="">
                   <a href="contactenos.php" class="caption-accesocontacto" >
                      <div class="rojo">
@@ -214,7 +353,7 @@
                         </div>
                      </div>
                   </a>
-               </div>
+               </div> -->
                <div class="acceso flotadores ultimo">
                   <img src="asset/img/contactos/6-Proveedores.jpg" class="" alt="">
                   <a href="contactenos.php" class="caption-accesocontacto" >
@@ -280,7 +419,7 @@
                <div class="span2 fichacontacto">
                   <div class="acceso">
                      <img src="asset/img/contactos/3-Trabajadores.jpg" class="" alt="">
-                     <a href="contactenos.php" class="caption-accesocontacto" >
+                     <a href="trabajaencn.php" class="caption-accesocontacto" >
                         <div class="rojo">
                            <div class=" texto-acceso2 movil">
                               Quieres trabajar en CN
@@ -292,7 +431,7 @@
                      </a>
                   </div>
                </div>
-               <div class="span2 fichacontacto">
+               <!-- <div class="span2 fichacontacto">
                   <div class="acceso">
                      <img src="asset/img/contactos/7-Visita-Planta.jpg" class="" alt="">
                      <a href="visita.php" class="caption-accesocontacto" >
@@ -306,7 +445,7 @@
                         </div>
                      </a>
                   </div>
-               </div>
+               </div> -->
                <div class="span2 fichacontacto">
                   <div class="acceso">
                      <img src="asset/img/contactos/4-Distribuidores.jpg" class="" alt="">
@@ -322,7 +461,7 @@
                      </a>
                   </div>
                </div>
-               <div class="span2 fichacontacto">
+               <!-- <div class="span2 fichacontacto">
                   <div class="acceso">
                      <img src="asset/img/contactos/5-Eventos.jpg" class="" alt="">
                      <a href="contactenos.php" class="caption-accesocontacto" >
@@ -336,7 +475,7 @@
                         </div>
                      </a>
                   </div>
-               </div>
+               </div> -->
                <div class="span2 fichacontacto ultimo">
                   <div class="acceso">
                      <img src="asset/img/contactos/6-Proveedores.jpg" class="" alt="">

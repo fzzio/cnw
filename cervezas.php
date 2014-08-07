@@ -498,7 +498,7 @@
                                  <div class="span9 offset2 text-left">
                                     <h1 class="seccion-titular2 texto-rojo">Presentaciones</h1>
                                     <div class="seccion-texto texto-gris">
-                                       300 cm3 envase retornable color ámbar.
+                                       330 cm3 envase retornable color ámbar.
                                     </div>
                                  </div>
                               </div>
