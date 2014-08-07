@@ -32,11 +32,12 @@
       <?php 
          require_once'menu.php';
          ?>
-      <div class="row-fluid parallax-seccion" style="background-image: url('asset/img/banners/publicaciones/IMG-publicaciones.jpg'); background-position: 50% 50%;">
+         <div class="underHeader"></div>
+      <!-- <div class="row-fluid parallax-seccion" style="background-image: url('asset/img/banners/publicaciones/IMG-publicaciones.jpg'); background-position: 50% 50%;">
          <div class="span12 text-center contenedor-centrar">
             <h1 class="seccion-titular texto-blanco">Noticias</h1>
          </div>
-      </div>
+      </div> -->
       <div class="row-fluid">
          <div id="publicaciones-wrap" >
             <!-- <div class="row-fluid">
@@ -54,7 +55,7 @@
                         <a  id="pagina1" class="listapub" href="#paneA" data-toggle="tab" sl-processed="1">Prensa</a>
                      </li >
                      <li ><a  href="#paneB" class="listapub" data-toggle="tab" sl-processed="1">Otras publicaciones</a></li>
-                     <li ><a  href="http://www.sabmiller.com/index.asp?pageid=154" target="_blank" class="listapub" sl-processed="1">Banco de Imágenes</a></li>
+                     <li ><a  href="http://multimedia.sabmiller.com/" target="_blank" class="listapub" sl-processed="1">Banco de Imágenes</a></li>
                   </ul>
                </div>
                <div class="tab-content span6">
