@@ -617,6 +617,9 @@ vertical-align: top;
 .lista{
 	width: auto;
 }
+.titular-subseccion{
+	font-size: 20px;
+}
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus{
 	background-color: transparent;
 }
@@ -2892,6 +2895,18 @@ a.blanco:hover{
 
 .breadcrumb-pr li{
 	color: #9a9a9a;
+}
+.texto-naranja{
+	color: #e37c05;
+	font-weight: bold;
+}
+.fondo-naranja{
+	background-color: #e37c05;
+}
+.pr-divisor{
+	border-bottom: 1px solid #cccccc;
+	border-color: #cccccc;
+
 }
 .titulo-naranja{
 	color: #e37c05;
