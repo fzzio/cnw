@@ -2900,6 +2900,9 @@ a.blanco:hover{
 	color: #e37c05;
 	font-weight: bold;
 }
+.fondo-naranja{
+	background-color: #e37c05;
+}
 .pr-divisor{
 	border-bottom: 1px solid #cccccc;
 	border-color: #cccccc;

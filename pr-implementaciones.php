@@ -22,6 +22,8 @@
 					</ol>
 				</div>
       		</div>
+      	</div>
+      	<div class="container">
       		<div class="row">
 				<div class="span8 offset2 text-center tituloseccion" style="margin-top: 10px;">
 					<p class="textocentrado">IMPLEMENTACIONES</p>
