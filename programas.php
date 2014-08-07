@@ -21,19 +21,19 @@
                </div>
             </li>
             <li data-target="#carouselPrioridades" data-slide-to="2" class="c-miniaturas">
-               <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-procesos-de-clase-mundial.jpg' );">
+               <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-un-mundo-productivo.jpg' );">
                  &nbsp;
                </div>
             </li>
             <li data-target="#carouselPrioridades" data-slide-to="3" class="c-miniaturas">
-               <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-un-mundo-productivo.jpg' );">
+               <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-procesos-de-clase-mundial.jpg' );">
                  &nbsp;
                </div>
             </li>
          </ol>
 
          <div class="carousel-inner">
-            <div class="item active">
+            <div class="item">
                <div class="fill backgrounda63525" style="background-image: url( 'asset/img/programas/comunidad.jpg' );">
                   <div class="v-center-contenedor">
                      <div class="v-center-contenido">
@@ -180,5 +180,14 @@
       <footer>
          <?php require_once'footer.php'; ?>
       </footer>
+      <script type="text/javascript">
+      $(document).ready(function () {
+         $('#carouselPrioridades').each(function(){
+          $(this).carousel({
+            interval: false
+         });
+       });
+      });
+      </script>
    </body>
 </html>
