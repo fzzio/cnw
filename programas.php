@@ -7,28 +7,44 @@
       <?php require_once'menu.php'; ?>
       </div>
       
-      <div id="carouselPrioridades" class="carousel slide fondogris">
+      <div id="carouselPrioridades" class="carousel slide backgroundFFFFFF">
 
          <ol class="carousel-indicators">
             <li data-target="#carouselPrioridades" data-slide-to="0" class="c-miniaturas active">
                <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-comunidad.jpg' );">
                  &nbsp;
                </div>
+               <div class="miniaturas back" style="background-image: url( 'asset/img/programas/bullet-comunidad.jpg' );">
+                 &nbsp;
+               </div>
+               <div class="leyendaMiniatura"><p>Comunidad</p></div>
             </li>
             <li data-target="#carouselPrioridades" data-slide-to="1" class="c-miniaturas">
                <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-moderacion.jpg' );">
                  &nbsp;
                </div>
+               <div class="miniaturas back" style="background-image: url( 'asset/img/programas/bullet-cultura-de-moderacion.jpg' );">
+                 &nbsp;
+               </div>
+               <div class="leyendaMiniatura"><p>Cultura de Moderación</p></div>
             </li>
             <li data-target="#carouselPrioridades" data-slide-to="2" class="c-miniaturas">
                <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-un-mundo-productivo.jpg' );">
                  &nbsp;
                </div>
+               <div class="miniaturas back" style="background-image: url( 'asset/img/programas/bullet-cuidado-del-ambiente.jpg' );">
+                 &nbsp;
+               </div>
+               <div class="leyendaMiniatura"><p>Cuidado del Ambiente</p></div>
             </li>
             <li data-target="#carouselPrioridades" data-slide-to="3" class="c-miniaturas">
                <div class="miniaturas" style="background-image: url( 'asset/img/programas/bullet-img-procesos-de-clase-mundial.jpg' );">
                  &nbsp;
                </div>
+               <div class="miniaturas back" style="background-image: url( 'asset/img/programas/bullet-procesos-de-Clase-mundial.jpg' );">
+                 &nbsp;
+               </div>
+               <div class="leyendaMiniatura"><p>Procesos de Clase Mundial</p></div>
             </li>
          </ol>
 
@@ -52,10 +68,10 @@
                               </div>
                               <div class="row-fluid">
                                  <div class="span4 offset4 text-left">
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">SIEMBRA CEBADA</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">SIEMBRA FUTURO - 4E, CAMINO AL PROGRESO</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">HACIENDO LA DIFERENCIA PASCUALES</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">SANTA INÉS</p></a>
+                                    <a href="pr-sembra-cebada.php"><p class="subtitulo programa marginboth25 texto-blanco">SIEMBRA CEBADA</p></a>
+                                    <a href="pr-sembra-futuro.php"><p class="subtitulo programa marginboth25 texto-blanco">SIEMBRA FUTURO - 4E, CAMINO AL PROGRESO</p></a>
+                                    <a href="pr-zona.php"><p class="subtitulo programa marginboth25 texto-blanco">HACIENDO LA DIFERENCIA PASCUALES</p></a>
+                                    <a href="pr-santaines.php"><p class="subtitulo programa marginboth25 texto-blanco">SANTA INÉS</p></a>
                                  </div>
                               </div>
                            </div>
@@ -87,17 +103,17 @@
                                     <div class="row-fluid">
                                        <div class="span6 text-justify">
                                           <p class="subtitulo marginboth25 texto-blanco">CONSUMO RESPONSABLE</p>
-                                          <a href=""><p class="subtitulo programa marginboth25 texto-blanco">PROBLEMÁTICA DEL CONSUMO DE ALCOHOL EN ECUADOR</p></a>
+                                          <a href="pr-problematica.php"><p class="subtitulo programa marginboth25 texto-blanco">PROBLEMÁTICA DEL CONSUMO DE ALCOHOL EN ECUADOR</p></a>
                                           <a href=""><p class="subtitulo programa marginboth25 texto-blanco">DISFRUTA CON MODERACIÓN</p></a>
-                                          <a href=""><p class="subtitulo programa marginboth25 texto-blanco">RESPONSABLEMENTE</p></a>
+                                          <a href="pr-responsablemente.php"><p class="subtitulo programa marginboth25 texto-blanco">RESPONSABLEMENTE</p></a>
                                        </div>
                                        <div class="span6 text-justify">
                                           <p class="subtitulo marginboth25 texto-blanco">CONSUMO RESPONSABLE</p>
                                           <a href=""><p class="subtitulo programa marginboth25 texto-blanco">CULTURA CERVECERA</p></a>
-                                          <a href=""><p class="subtitulo programa marginboth25 texto-blanco">HISTORIA DE LA CERVEZA</p></a>
-                                          <a href=""><p class="subtitulo programa marginboth25 texto-blanco">ELABORACIÓN DE LA CERVEZA</p></a>
+                                          <a href="pr-historia.php"><p class="subtitulo programa marginboth25 texto-blanco">HISTORIA DE LA CERVEZA</p></a>
+                                          <a href="pr-elaboracion.php"><p class="subtitulo programa marginboth25 texto-blanco">ELABORACIÓN DE LA CERVEZA</p></a>
                                           <a href=""><p class="subtitulo programa marginboth25 texto-blanco">BENEFICIOS DE LOS INGREDIENTES DE LA CERVEZA</p></a>
-                                          <a href=""><p class="subtitulo programa marginboth25 texto-blanco">MARIDAJE</p></a>
+                                          <a href="pr-maridaje.php"><p class="subtitulo programa marginboth25 texto-blanco">MARIDAJE</p></a>
                                        </div>
                                     </div>
                                  </div>
@@ -128,10 +144,10 @@
                               </div>
                               <div class="row-fluid">
                                  <div class="span4 offset4 text-left">
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">AGUA</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">ENERGÍA</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">CARBONO NEUTRO</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">RECICLAJE</p></a>
+                                    <a href="pr-agua.php"><p class="subtitulo programa marginboth25 texto-blanco">AGUA</p></a>
+                                    <a href="pr-energia.php"><p class="subtitulo programa marginboth25 texto-blanco">ENERGÍA</p></a>
+                                    <a href="pr-carbono-neutro.php"><p class="subtitulo programa marginboth25 texto-blanco">CARBONO NEUTRO</p></a>
+                                    <a href="pr-reciclaje"><p class="subtitulo programa marginboth25 texto-blanco">RECICLAJE</p></a>
                                  </div>
                               </div>
                            </div>
@@ -160,9 +176,9 @@
                               </div>
                               <div class="row-fluid">
                                  <div class="span4 offset4 text-left">
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">PLANTA TOP TEN</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">MANUFACTURA DE CLASE MUNDIAL</p></a>
-                                    <a href=""><p class="subtitulo programa marginboth25 texto-blanco">DESARROLLO DE PROVEEDORES LOCALES</p></a>
+                                    <a href="pr-planta-topten.php"><p class="subtitulo programa marginboth25 texto-blanco">PLANTA TOP TEN</p></a>
+                                    <a href="pr-manufactura.php"><p class="subtitulo programa marginboth25 texto-blanco">MANUFACTURA DE CLASE MUNDIAL</p></a>
+                                    <a href="pr-desarrollo-proveedores.php"><p class="subtitulo programa marginboth25 texto-blanco">DESARROLLO DE PROVEEDORES LOCALES</p></a>
                                  </div>
                               </div>
                            </div>
@@ -182,11 +198,26 @@
       </footer>
       <script type="text/javascript">
       $(document).ready(function () {
+         $("#btn-navegacion").hide();
          $('#carouselPrioridades').each(function(){
           $(this).carousel({
             interval: false
          });
        });
+         // Pregunta si llega algo por GET para presentar esa noticia desplegada
+         <?php  $numnotici = isset($_GET["prioridad"])? $_GET["prioridad"] : 0; ; ?>
+                    var noticia= <?php echo $numnotici; ?> ;/*Verifico si llego algo por GET para cargar esa noticia, sino cargo todos*/
+                    if (noticia!=0) {
+                     $(".item").removeClass("active");
+                     $(".c-miniaturas").removeClass("active");
+                     $(".item:nth-child("+noticia+")").addClass("active");
+                     $(".c-miniaturas:nth-child("+noticia+")").addClass("active");
+                   }
+                   else{
+                     $(".item:nth-child(1)").addClass("active"); 
+                     $("c-miniaturas:nth-child(1)").addClass("active"); 
+                     
+                   }
       });
       </script>
    </body>

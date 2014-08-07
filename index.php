@@ -140,7 +140,7 @@
          <div id="proyectos" class="secciones hidden-phone" style="height:100%;">
          <div  class="row-fluid" style="height: 100%;position: relative;">
             <div class="bloque5 proyecto-block5 proyecto-block4 proyecto1 background9d2f20" style="height: 100%;" >
-               <a href="" class="proyecto-contenido5 proyecto-contenido4 text-center backgrounda63525">
+               <a href="programas.php?prioridad=1" class="proyecto-contenido5 proyecto-contenido4 text-center backgrounda63525">
                   <div class="row-fluid height100">
                      <div class="span10 text-center offset1 contenedor-centrar mt100">
                         <div class="acceso-texto subtitulo mascara">
@@ -163,7 +163,7 @@
 
             </div>
             <div  class="bloque5 proyecto-block5 proyecto-block4 proyecto1 backgrounde47d06" style="height: 100%;" >
-               <a href="" class="proyecto-contenido5 proyecto-contenido4 text-center backgroundeb8612">
+               <a href="programas.php?prioridad=2" class="proyecto-contenido5 proyecto-contenido4 text-center backgroundeb8612">
                   <div class="row-fluid height100">
                      <div class="span10 text-center offset1 contenedor-centrar mt100">
                         <!-- <h3 class="acceso-titulo">
@@ -190,7 +190,7 @@
                </div>
             </div>
             <div class="bloque5 proyecto-block5 proyecto-block4 proyecto1 background2e95b4" style="height: 100%;" >
-               <a href="" class="proyecto-contenido5 proyecto-contenido4 text-center background39a2c0">
+               <a href="programas.php?prioridad=3" class="proyecto-contenido5 proyecto-contenido4 text-center background39a2c0">
                   <div class="row-fluid height100">
                      <div class="span10 text-center offset1 height100">
                         <!-- <h3 class="acceso-titulo">
@@ -217,7 +217,7 @@
                </div>
             </div>
             <div  class="bloque5 proyecto-block5 proyecto-block4 proyecto1 backgroundeeac00" style="height: 100%;" >
-               <a href="" class="proyecto-contenido5 proyecto-contenido4 text-center backgroundf6b406">
+               <a href="programas.php?prioridad=4" class="proyecto-contenido5 proyecto-contenido4 text-center backgroundf6b406">
                   <div class="row-fluid height100">
                      <div class="span10 text-center offset1 contenedor-centrar mt100">
                         <!-- <h3 class="acceso-titulo">

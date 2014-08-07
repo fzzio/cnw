@@ -2629,379 +2629,416 @@ a.blanco:hover{
 @media(max-width: 1680px){
 	/*.bienvenido{
 		height: 545px;
-	}*/
-}
-@media(max-width: 1680px){
+		}*/
+	}
+	@media(max-width: 1680px){
 	/*.bienvenido{
 		height: 522px;
-	}*/
-}
-@media(max-width: 1440px){
+		}*/
+	}
+	@media(max-width: 1440px){
 	/*.bienvenido{
 		height: 474px;
-	}*/
-	.tituloprensa {
-		line-height: 25px;
-		width: 100%;
-		color: red;
-		font-size: 20px;
-		margin-top: 25px;
-		margin-bottom: 25px;
+		}*/
+		.tituloprensa {
+			line-height: 25px;
+			width: 100%;
+			color: red;
+			font-size: 20px;
+			margin-top: 25px;
+			margin-bottom: 25px;
+		}
+		.btn-linkPolitica{
+			font-size: 19px;
+		}
+		.mediano {
+			font-size: 20px;
+		}
 	}
-	.btn-linkPolitica{
-		font-size: 19px;
-	}
-	.mediano {
-		font-size: 20px;
-	}
-}
-@media(max-width: 1366px){
+	@media(max-width: 1366px){
 	/*.bienvenido{
 		height: 453px;
-	}*/
-	.tituloFichaTrabajo{
-		font-size: 23px;
+		}*/
+		.tituloFichaTrabajo{
+			font-size: 23px;
+		}
+		.btn-linkPolitica {
+			font-size: 17px;
+		}
 	}
-	.btn-linkPolitica {
-		font-size: 17px;
-	}
-}
-@media(max-width: 1280px){
+	@media(max-width: 1280px){
 	/*.bienvenido{
 		height: 428px;
-	}*/
-	.menu-menu .nav > li > a {
-		padding: 10px 10px 10px;
+		}*/
+		.menu-menu .nav > li > a {
+			padding: 10px 10px 10px;
+		}
+		.tituloFichaTrabajo{
+			font-size: 13px;
+		}
 	}
-	.tituloFichaTrabajo{
-		font-size: 13px;
-	}
-}
-@media(max-width: 1024px){
+	@media(max-width: 1024px){
 	/*.bienvenido{
 		height: 392px;
-	}*/
-	.btn-linkPolitica{
-		padding-left: 15px;
-		padding-right: 15px;
+		}*/
+		.btn-linkPolitica{
+			padding-left: 15px;
+			padding-right: 15px;
+		}
 	}
-}
-@media(max-width: 800px){
+	@media(max-width: 800px){
 	/*.bienvenido{
 		background-size: cover;
-	}*/
-	.tituloFichaTrabajo{
+		}*/
+		.tituloFichaTrabajo{
+			font-size: 13px;
+		}
+		a .subtitulo{
+			line-height: 22px;
+		}
+		.mediano {
+			font-size: 15px;
+			line-height: 37px;
+		}
+	}
+	@media (min-width: 1366) and (max-width: 1440px){
+		.btn-linkPolitica{
+			font-size: 16px;
+		}
+		.titularpubs{
+			font-size: 16px;
+		}
+	}
+
+	/* Large desktop */
+	@media (min-width: 1200px) {
+		.tituloFichaContacto{
+			min-height: 60px;
+		}
+	}
+
+	/* Portrait tablet to landscape and desktop */
+	@media (min-width: 768px) and (max-width: 979px) {
+		.#carouselPrioridades .carousel-indicators {
+			left: 15%;
+		}
+		.titularpubs{
+			font-size: 13px;
+		}
+	}
+
+	/* Landscape phone to portrait tablet */
+	@media (max-width: 767px) {
+		.#carouselPrioridades .carousel-indicators {
+			left: 15%;
+		}
+		.titularpubs{
+			font-size: 10px;
+		}
+	}
+
+	/* Landscape phones and down */
+	@media (max-width: 480px) { 
+		.#carouselPrioridades .carousel-indicators {
+			left: 15%;
+		}
+
+	}
+	#visita {
+		color: #FF0000;
+	}
+	.fichaTrabajo {
+		width: 80%;
+		margin: 0 auto;
+	}
+	.parallax-seccion-half {
+		display: table;
+		height: 50%;
+		width: 100%;
+		/*position: relative;*/
+		/*background-image: url('../asset/img/productos/cervezas/IMG-Pilsener-1.jpg');*/
+		background-repeat: no-repeat;
+		/*background-position: top center;*/
+		background-attachment: fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+	.mayuscula{
+		text-transform: uppercase;
+	}
+	.height100{
+		height: 100%;
+	}
+	.prioridad{
+		color: #FFFFFF;
+		text-transform: inherit;
+	}
+	.marginboth25{
+		margin-left: 25px;
+		margin-right: 25px;
+	}
+	.img-responsive{max-height: 100%; width: auto;}
+	.height60{
+		height: 60%;
+	}
+	.height40{
+		height: 40%;
+	}
+	.descripcionPrioridad{
+		line-height: 27px;
+	}
+	.background9d2f20{
+		background-color: #9d2f20;
+	}
+	.backgrounda63525{
+		background-color: #a63525;
+	}
+	.backgrounde47d06{
+		background-color: #e47d06;
+	} 
+	.backgroundeb8612{
+		background-color: #eb8612;
+	} 
+	.background2e95b4{
+		background-color: #2e95b4;
+	} 
+	.background39a2c0{
+		background-color: #39a2c0;
+	} 
+	.backgroundeeac00{
+		background-color: #eeac00;
+	} 
+	.backgroundf6b406{
+		background-color: #f6b406;
+	} 
+	.background89881c{
+		background-color: #89881c;
+	} 
+	.background929224{
+		background-color: #929224;
+	} 
+	.proyecto-block4{
+		width: 25%;
+	}
+	.proyecto-contenido4{
+		width: 25% !important;
+	}
+	/*Prioridades*/
+	#carouselPrioridades{
+		height: 100%;
+	}
+
+	#carouselPrioridades .carousel-indicators {
+		position: absolute;
+		clear: both;
+		top: 85%;
+		left: 40%;
+		z-index: 5;
+		margin: 0 auto;
+		list-style: none;
+		text-align: center;
+	}
+	#carouselPrioridades .carousel,
+	#carouselPrioridades .item,
+	.active {
+		height:100%;
+	}
+
+	#carouselPrioridades .carousel-inner {
+		height:100%;
+	}
+
+	#carouselPrioridades .fill {
+		width:100%;
+		height:100%;
+		background-position: center;
+		background-size: cover;
+	}
+	.programa{
 		font-size: 13px;
 	}
-	a .subtitulo{
-		line-height: 22px;
+	.mt100{
+		margin-top: 100px;
 	}
-	.mediano {
-		font-size: 15px;
-		line-height: 37px;
+	#actividadesCarrousel{
+		height: 100%;
 	}
-}
-@media (min-width: 1366) and (max-width: 1440px){
-	.btn-linkPolitica{
+	#actividadesCarrousel .carousel-inner{
+		height: 100%;
+	}
+	#actividades-wrap{
+		height: 100%;
+	}
+	#actividadesCarrousel .carousel-inner .item, #actividadesCarrousel .carousel-inner .item .row-fluid,#actividadesCarrousel .carousel-inner .item .row-fluid [class*="span"]{
+		height: 100%;
+	}
+
+	/* Fabricio */
+
+	.banner-seccion{
+		height: 250px;
+		width: 100%;
+		position: relative;
+		/*background-image: url('../asset/img/productos/cervezas/IMG-Pilsener-1.jpg');*/
+		background-repeat: no-repeat;
+		/*background-position: top center;*/
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+	.breadcrumb-pr{
+		text-transform: uppercase;
+	}
+
+	.breadcrumb-pr li{
+		color: #9a9a9a;
+	}
+	.texto-naranja{
+		color: #e37c05;
+		font-weight: bold;
+	}
+	.fondo-naranja{
+		background-color: #e37c05;
+	}
+	.pr-divisor{
+		border-bottom: 1px solid #cccccc;
+		border-color: #cccccc;
+
+	}
+	.titulo-naranja{
+		color: #e37c05;
+		font-weight: bold;
 		font-size: 16px;
 	}
-	.titularpubs{
-		font-size: 16px;
+	.obj-centrar{
+		position: relative;
+		margin: 0 auto;
 	}
-}
-
-/* Large desktop */
-@media (min-width: 1200px) {
-	.tituloFichaContacto{
-		min-height: 60px;
+	.texto-gris-2{
+		color: #6e6e6e;
 	}
-}
- 
-/* Portrait tablet to landscape and desktop */
-@media (min-width: 768px) and (max-width: 979px) {
-	.#carouselPrioridades .carousel-indicators {
-		left: 15%;
-	}
-	.titularpubs{
-		font-size: 13px;
-	}
-}
- 
-/* Landscape phone to portrait tablet */
-@media (max-width: 767px) {
-	.#carouselPrioridades .carousel-indicators {
-		left: 15%;
-	}
-	.titularpubs{
-		font-size: 10px;
-	}
-}
- 
-/* Landscape phones and down */
-@media (max-width: 480px) { 
-	.#carouselPrioridades .carousel-indicators {
-		left: 15%;
+	#carouselPrioridades a:hover .texto-blanco{
+		text-decoration: underline;
 	}
 
-}
-#visita {
-	color: #FF0000;
-}
-.fichaTrabajo {
-	width: 80%;
-	margin: 0 auto;
-}
-.parallax-seccion-half {
-	display: table;
-	height: 50%;
-	width: 100%;
-	/*position: relative;*/
-	/*background-image: url('../asset/img/productos/cervezas/IMG-Pilsener-1.jpg');*/
-	background-repeat: no-repeat;
-	/*background-position: top center;*/
-	background-attachment: fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-.mayuscula{
-	text-transform: uppercase;
-}
-.height100{
-	height: 100%;
-}
-.prioridad{
-	color: #FFFFFF;
-	text-transform: inherit;
-}
-.marginboth25{
-	margin-left: 25px;
-	margin-right: 25px;
-}
-.img-responsive{max-height: 100%; width: auto;}
-.height60{
-	height: 60%;
-}
-.height40{
-	height: 40%;
-}
-.descripcionPrioridad{
-	line-height: 27px;
-}
-.background9d2f20{
-	background-color: #9d2f20;
-}
-.backgrounda63525{
-	background-color: #a63525;
-}
-.backgrounde47d06{
-	background-color: #e47d06;
-} 
-.backgroundeb8612{
-	background-color: #eb8612;
-} 
-.background2e95b4{
-	background-color: #2e95b4;
-} 
-.background39a2c0{
-	background-color: #39a2c0;
-} 
-.backgroundeeac00{
-	background-color: #eeac00;
-} 
-.backgroundf6b406{
-	background-color: #f6b406;
-} 
-.background89881c{
-	background-color: #89881c;
-} 
-.background929224{
-	background-color: #929224;
-} 
-.proyecto-block4{
-	width: 25%;
-}
-.proyecto-contenido4{
-	width: 25% !important;
-}
-/*Prioridades*/
-#carouselPrioridades{
-	height: 100%;
-}
+	.carousel-indicators .c-miniaturas,
+	.carousel-indicators .c-miniaturas.active{
+		margin-left: 10px;
+		margin-right: 10px;
+		width: 95px;
+		height: 95px;
+		border-radius: 46px;
+		position: relative;
+		/*overflow: hidden;*/
+		border: none;
 
-#carouselPrioridades .carousel-indicators {
-	position: absolute;
-	clear: both;
-	top: 85%;
-	left: 40%;
-	z-index: 5;
-	margin: 0 auto;
-	list-style: none;
-	text-align: center;
-}
-#carouselPrioridades .carousel,
-#carouselPrioridades .item,
-.active {
-	height:100%;
-}
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		-ms-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	}
 
-#carouselPrioridades .carousel-inner {
-	height:100%;
-}
+	.carousel-indicators .c-miniaturas:hover,
+	.carousel-indicators .c-miniaturas.active:hover{
+		width: 110px;
+		height: 110px;
+		position: relative;
+		/*overflow: hidden;*/
+		border-radius: 53px;
 
-#carouselPrioridades .fill {
-	width:100%;
-	height:100%;
-	background-position: center;
-	background-size: cover;
-}
-.programa{
-	font-size: 13px;
-}
-.mt100{
-	margin-top: 100px;
-}
-#actividadesCarrousel{
-	height: 100%;
-}
-#actividadesCarrousel .carousel-inner{
-	height: 100%;
-}
-#actividades-wrap{
-	height: 100%;
-}
-#actividadesCarrousel .carousel-inner .item, #actividadesCarrousel .carousel-inner .item .row-fluid,#actividadesCarrousel .carousel-inner .item .row-fluid [class*="span"]{
-	height: 100%;
-}
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		-ms-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	}
 
-/* Fabricio */
+	.c-miniaturas .miniaturas{
+		width: 100%;
+		height: 100%;
+		border-radius: 50%;
+		position: absolute;
 
-.banner-seccion{
-	height: 250px;
-	width: 100%;
-	position: relative;
-	/*background-image: url('../asset/img/productos/cervezas/IMG-Pilsener-1.jpg');*/
-	background-repeat: no-repeat;
-	/*background-position: top center;*/
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-.breadcrumb-pr{
-	text-transform: uppercase;
-}
+		background-repeat: no-repeat;
+		background-position: top center;
+		/*background-attachment: fixed;*/
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
 
-.breadcrumb-pr li{
-	color: #9a9a9a;
-}
-.texto-naranja{
-	color: #e37c05;
-	font-weight: bold;
-}
-.fondo-naranja{
-	background-color: #e37c05;
-}
-.pr-divisor{
-	border-bottom: 1px solid #cccccc;
-	border-color: #cccccc;
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		-ms-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	}
 
-}
-.titulo-naranja{
-	color: #e37c05;
-	font-weight: bold;
-	font-size: 16px;
-}
-.obj-centrar{
-	position: relative;
-	margin: 0 auto;
-}
-.texto-gris-2{
-	color: #6e6e6e;
-}
-#carouselPrioridades a:hover .texto-blanco{
-	text-decoration: underline;
-}
+	.carousel-indicators .c-miniaturas.active .miniaturas{
+		width: 100%;
+		height: 100%;
+		border-radius: 50%;
 
-.carousel-indicators .c-miniaturas,
-.carousel-indicators .c-miniaturas.active{
-	width: 70px;
-	height: 70px;
-	border-radius: 35px;
-	position: relative;
-	overflow: hidden;
-	border: none;
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		-ms-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	}
+	.fondogris{
+		background-color: #dddddd;
+	}
 
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
+	.espaciado-a{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.underHeader{
+		height: 47px;
+	}
+	.iconoCont{
+		width: 20%;
+		float: left;
+	}
+	.clearfix{
+		clear: both;
+	}
+	.c-miniaturas .leyendaMiniatura{
+		margin-top: 10px;
+		display: none;
+		position: absolute;
+		top: 100%;
+		width: 100%;
+		text-indent: 1px;
+	}
+	.c-miniaturas.active .leyendaMiniatura,.c-miniaturas:hover .leyendaMiniatura{
+		display: block;
+	}
+	.c-miniaturas.active .miniaturas,.c-miniaturas:hover .miniaturas{
+		display: block;
 
-.carousel-indicators .c-miniaturas:hover,
-.carousel-indicators .c-miniaturas.active:hover{
-	width: 90px;
-	height: 90px;
-	position: relative;
-	overflow: hidden;
-	border-radius: 45px;
+	}
+	.c-miniaturas.active .miniaturas.back,.c-miniaturas:hover .miniaturas.back{
+		display: none;
 
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-
-.c-miniaturas .miniaturas{
-	width: 100%;
-	height: 100%;
-	border-radius: 50%;
-	position: absolute;
-
-	background-repeat: no-repeat;
-	background-position: top center;
-	/*background-attachment: fixed;*/
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-
-.carousel-indicators .c-miniaturas.active .miniaturas{
-	width: 100%;
-	height: 100%;
-	border-radius: 50%;
-
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-.fondogris{
-	background-color: #dddddd;
-}
-
-.espaciado-a{
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-.underHeader{
-	height: 47px;
-}
-.iconoCont{
-	width: 20%;
-	float: left;
-}
-.clearfix{
-	clear: both;
-}
+	}
+	.miniaturas{
+		display: none;
+	}
+	.miniaturas.back{
+		position: relative;
+		display: block;
+	}
+	#carouselPrioridades .carousel-inner{
+		height: 90%;
+	}
+	#carouselPrioridades{
+		margin-bottom: 50px;
+	}
+	.backgroundFFFFFF{
+		background-color: #FFFFFF;
+	}

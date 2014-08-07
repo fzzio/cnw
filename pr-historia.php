@@ -105,5 +105,10 @@
       <footer>
          <?php require_once'footer.php'; ?>
       </footer>
+      <script type="text/javascript">
+      $(document).ready(function () {
+      	$("#btn-navegacion").hide();
+      });
+      </script>
    </body>
 </html>
