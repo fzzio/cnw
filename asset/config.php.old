@@ -1,0 +1,6 @@
+<?php 
+$cfg_host = "localhost";
+	$cfg_base = "webcn";
+	$cfg_user = "root";
+	$cfg_pass = "";
+ ?>

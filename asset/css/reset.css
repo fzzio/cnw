@@ -1,0 +1,75 @@
+
+.navbar-inner {
+    /*background-color: transparent;
+    background-image:none ; 
+    background-repeat: repeat-x;
+    border: 0px solid #D4D4D4;
+    border-radius: 0px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+    min-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align:center;
+    box-shadow: none;*/
+}
+
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus{
+    box-shadow: none;
+}
+
+.navbar .nav > li > a {
+    text-shadow: none;
+    /* color: #666666;
+    display: inline;*/
+}
+
+.navbar .nav > li > a:focus, 
+.navbar .nav > li > a:hover{
+    /*text-shadow: none;
+    font-weight: 300;*/
+    /*color: red;*/
+}
+
+.divider{
+    /*color: black;*/
+}
+
+.amd-nav{
+    /*width: 100%;*/
+}
+
+/*.navbar .nav,
+.navbar .nav > li {
+    float:none;
+    display:inline-block;
+    *display:inline;
+    *zoom:1; 
+    vertical-align: top;
+}*/
+
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    border-radius: 0px;
+}
+
+.navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.navbar .btn-navbar{
+    background-color: #000000;
+    background-image: none;
+}
+.navbar-fixed-top .navbar-inner, .navbar-fixed-bottom .navbar-inner{
+    padding: 0px;
+}
+.navbar .btn-navbar:hover, .navbar .btn-navbar:active, .navbar .btn-navbar:focus{
+    background-color: #eb3527;
+    background-image: none;
+}
