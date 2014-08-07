@@ -69,27 +69,142 @@
 				</div>
 			</div>
 			<div class="row">
+				<div class="span4 text-center espaciado-a">
+					<img src="asset/img/programas/1.png" class="img-responsive obj-centrar">
+					<p class="texto-gris-2">
+						Patrón de comsumo excesivo por ocasión.
+					</p>
+				</div>
+				<div class="span4 text-center espaciado-a">
+					<img src="asset/img/programas/2.png" class="img-responsive obj-centrar">
+					<p class="texto-gris-2">
+						Mercado de alcohol ilegal.
+					</p>
+				</div>
+				<div class="span4 text-center espaciado-a">
+					<img src="asset/img/programas/3.png" class="img-responsive obj-centrar">
+					<p class="texto-gris-2">
+						Edad inicio en el consumo de alcohol en los menores de 18 años.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="span8 offset2 text-center espaciado-a">
+					<p class="textocentrado negrita">
+						Patrón de comsumo excesivo por ocasión.
+					</p>
+					<p class="texto-gris-2">
+						Patrón de consumo excesivo por ocasión Según la OMS, el consumo nocivo de alcohol es de 60 gramos o más por ocasión.
+					</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span6 offset3 text-center espaciado-a">
+					<img src="asset/img/programas/60-gramos-de-alcohol.png" class="img-responsive obj-centrar">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="span8 offset2 text-center espaciado-a">
+					<p class="textocentrado negrita">
+						Patrón de comsumo en Ecuador
+					</p>
+					<p class="texto-gris-2">
+						El patrón de consumo de los ecuatorianos se concentra en un solo día por semana, e incluso por mes, en el cual el consumidor se excede especialmente el sábado. Patrón de consumo excesivo por ocasión. Según la OMS, el consumo nocivo de alcohol es de 60 gramos o más por ocasión.
+					</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span8 offset2 text-center espaciado-a">
+					<p class="textocentrado negrita">
+						Patrón de comsumo promedio 2012 (solo consumidores)
+					</p>
+					<p class="texto-gris-2">
+						<span class="texto-naranja">Frecuencia: </span>1,0 días por semana
+					</p>
+					<hr class="pr-divisor" />
+					<p class="texto-gris-2">
+						<span class="texto-naranja">Cantidad: </span>6,6 tragos por semana
+					</p>
+					<hr class="pr-divisor" />
+					<p class="texto-gris-2">
+						<span class="texto-naranja">Tragos por ocasión de consumo: </span>6,6
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="span8 offset2 text-center espaciado-a">
+					<p class="textocentrado texto-rojo titular-subseccion">
+						Consumo nocivo por ocasión
+					</p>
+					<p class="texto-gris-2">
+						El 7% de los consumidores en el Ecuador presenta una ingesta excesiva ocasional o episodios de consumo intenso al menos una vez por semana.
+					</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span6 offset3 text-center espaciado-a">
+					<img src="asset/img/programas/consumo-nocivo-por-ocasion.png" class="img-responsive obj-centrar">
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="span8 offset2 text-center espaciado-a">
+					<p class="textocentrado texto-rojo titular-subseccion">
+						Progresión semanal de última ocasión de consumo
+					</p>
+					<p class="texto-gris-2">
+						Las ocasiones de consumo entre semana son casi nulas, siendo el día pico de consumo el sábado seguido por el día domingo.
+					</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span6 offset3 text-center espaciado-a">
+					<img src="asset/img/programas/progresion-semanal-.png" class="img-responsive obj-centrar">
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="span8 offset2 text-center espaciado-a">
+					<p class="textocentrado texto-rojo titular-subseccion">
+						Un gran mercado de alcohol ilegal
+					</p>
+					<p class="texto-gris-2">
+						EL alcohol ilegal representa el 57% del mercado de alcohol, siendo el más alto de la región después de Perú (58%) y uno de los más altos del mundo.
+					</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span6 offset3 text-center espaciado-a">
+					<img src="asset/img/programas/un-gran-mercado.png" class="img-responsive obj-centrar">
+				</div>
+			</div>
+			<div class="row">
 				<div class="span8 offset2 text-center espaciado-a">
 					<p class="texto-gris-2">
-						De los estudios realizados en el Ecuador Podemos Destacar que los principales riesgos o problemas asociados al consumo de alcohol se resumen en tres aspectos principales:
+						El mercado de alcohol ilegal se conforma por: alcohol artesanal, alcohol de contrabando, alcohol con evasión de impuestos y alcohol sin registro sanitario.
 					</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="span6 offset3 text-center espaciado-a">
-					<img src="asset/img/programas/3.7-litros-de-alcohol.png" class="img-responsive obj-centrar">
+					<img src="asset/img/programas/el-mercado-de-alcohol-ilegal-se.png" class="img-responsive obj-centrar">
 				</div>
 			</div>
 			<div class="row">
-				<div class="span8 offset2 text-center">
-					<p class="texto-gris-2">
-						El 72% de los ecuatorianos mayores de edad afirma haber consumido al menos una bebida alcohólica en los últimos 12 meses.
-					</p>
+				<div class="span8 offset2 text-center tituloseccion espaciado-a">
+					<p class="textocentrado">Edad inicio en el consumo de alcohol en los menores de 18 años.</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="span6 offset3 text-center espaciado-a">
-					<img src="asset/img/programas/l-62pc-de-los-latinoamericanos.png" class="img-responsive obj-centrar">
+					<img src="asset/img/programas/estudiante-de-secundaria.png" class="img-responsive obj-centrar">
 				</div>
 			</div>
 		</div>
