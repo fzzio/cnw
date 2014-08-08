@@ -17,7 +17,7 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Cuidado del Ambiente<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=3">Cuidado del Ambiente</a><span class="divider">/</span></li>
 						<li class="active">Reciclaje</li>
 					</ol>
 				</div>
@@ -33,7 +33,7 @@
 					<p class="texto-gris-2">
 						<br/><br/>
 						<span class="texto-naranja">Sistema de Clasificación de Residuos</span><br/>
-						Tachos clasificados al interior de nuestras plantas permite una mejor recolección de desperdicios por parte de nuestros colaboradores al segmentarlos en vidrio, papel, plástico y materiales no reciclables.
+						Tachos clasificados al interior de nuestras plantas permiten una mejor recolección de desperdicios por parte de nuestros colaboradores al segmentarlos en vidrio, papel, plástico y materiales no reciclables.
 					</p>
 				</div>
 			</div>
@@ -57,7 +57,7 @@
 					<p class="texto-gris-2">
 						<br/><br/>
 						<span class="texto-naranja">Mejoras en el diseño de envases</span><br/>
-						Ppermite reducir el peso de tapas y botellas.
+						Permite reducir el peso de tapas y botellas.
 					</p>
 				</div>
 			</div>

@@ -17,7 +17,7 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Cultura de moderación<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=2">Cultura de moderación</a><span class="divider">/</span></li>
 						<li class="active">Problemática del Consumo de Alcohol en el Ecuador</li>
 					</ol>
 				</div>

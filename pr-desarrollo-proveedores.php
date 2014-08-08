@@ -17,11 +17,16 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Procesos de Clase Mundial<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=4">Procesos de Clase Mundial</a><span class="divider">/</span></li>
 						<li class="active">DESARROLLO DE PROVEEDORES Locales</li>
 					</ol>
 				</div>
       		</div>
+      		<div class="row">
+				<div class="span8 offset2 text-center tituloseccion" style="margin-top: 10px;">
+					<p class="textocentrado">IMPLEMENTACIONES</p>
+				</div>
+			</div>
 			<div class="row">
 				<div class="span8 offset2 text-center">
 					<p class="texto-gris-2">
@@ -39,7 +44,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="span8 offset2 text-center tituloseccion espaciado-a">
-					<p class="textocentrado">Acciones</p>
+					<p class="textocentrado">ACCIONES</p>
 				</div>
 			</div>
 			<div class="row">

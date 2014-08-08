@@ -17,7 +17,7 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Comunidad<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=1">Comunidad</a><span class="divider">/</span></li>
 						<li class="active">Zona haciendo la Diferencia Pascuales</li>
 					</ol>
 				</div>

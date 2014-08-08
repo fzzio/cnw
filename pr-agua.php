@@ -17,18 +17,18 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Cuidado del Ambiente<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=3">Cuidado del Ambiente</a><span class="divider">/</span></li>
 						<li class="active">Agua</li>
 					</ol>
 				</div>
       		</div>
       	</div>
       	<div class="container">
-      		<div class="row">
+      		<!-- <div class="row">
 				<div class="span8 offset2 text-center tituloseccion" style="margin-top: 10px;">
-					<p class="textocentrado">IMPLEMENTACIONES</p>
+					<p class="textocentrado">AGUA</p>
 				</div>
-			</div>
+			</div> -->
 			<div class="row">
 				<div class="span8 offset2 text-center">
 					<span class="titulo-naranja">Plantas de Tratamiento de Aguas Residuales (PTAR).</span>

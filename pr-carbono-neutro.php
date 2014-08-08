@@ -17,7 +17,7 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Cuidado del Ambiente<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=3">Cuidado del Ambiente</a><span class="divider">/</span></li>
 						<li class="active">Carbono Neutro</li>
 					</ol>
 				</div>
@@ -26,7 +26,7 @@
       	<div class="container">
       		<div class="row">
 				<div class="span8 offset2 text-center tituloseccion" style="margin-top: 10px;">
-					<p class="textocentrado">¿Qué es?</p>
+					<p class="textocentrado">¿QUÉ ES?</p>
 				</div>
 			</div>
 			<div class="row espaciado-a">
@@ -46,7 +46,7 @@
 		<div class="container">
       		<div class="row">
 				<div class="span8 offset2 text-center tituloseccion" style="margin-top: 10px;">
-					<p class="textocentrado">¿Qué hacemos?</p>
+					<p class="textocentrado">¿QUÉ HACEMOS?</p>
 				</div>
 			</div>
 			<div class="row espaciado-a">

@@ -17,7 +17,7 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Cultura de moderación<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=2">Cultura de moderación</a><span class="divider">/</span></li>
 						<li class="active">Conductor Nominado</li>
 					</ol>
 				</div>
@@ -31,7 +31,7 @@
 			<div class="row">
 				<div class="span8 offset2 text-center">
 					<p class="texto-gris-2">
-						20.000 personas y 40 establecimientos nocturnos en Cuenca han participado desde el 2009 en la campaña Disfruta con Moderación, la cual impulsa el consumo responsable de alcohol y la designación de un Conductor Nominado para garantizar un retorno seguro a casa.
+						Más de 21.000 personas y 40 establecimientos nocturnos en Cuenca han participado desde el 2009 en la campaña Disfruta con Moderación, la cual impulsa el consumo responsable de alcohol y la designación de un Conductor Nominado para garantizar un retorno seguro a casa. Esta actividad se extendió en el último año a 19 empresas y 4 universidades.
 					</p>
 				</div>
 			</div>
@@ -48,6 +48,14 @@
 			<div class="row">
 				<div class="span6 offset3 text-center" style="margin-top: 20px;">
 					<img src="asset/img/programas/cn-61pc.png" class="img-responsive obj-centrar">
+				</div>
+			</div>
+			<br /><br />
+			<div class="row">
+				<div class="span6 offset3 text-center" style="margin-top: 20px;">
+					<p class="text-gris-2">
+						Muestra de 400 personas/Fuente Propraxis
+					</p>
 				</div>
 			</div>
 			<br /><br />

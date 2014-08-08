@@ -2715,6 +2715,14 @@ a.blanco:hover{
 		.tituloFichaContacto{
 			min-height: 60px;
 		}
+		.titularpubs{
+			font-size: 16px;
+		}
+	}
+	@media (max-width: 1200px) {
+		.titularpubs{
+			font-size: 16px;
+		}
 	}
 
 	/* Portrait tablet to landscape and desktop */

@@ -17,7 +17,7 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Cultura Cervezera<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=2">Cultura Cervecera</a><span class="divider">/</span></li>
 						<li class="active">Historia de la Cerveza</li>
 					</ol>
 				</div>

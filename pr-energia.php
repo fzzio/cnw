@@ -17,7 +17,7 @@
 					<ol class="breadcrumb breadcrumb-pr">
 						<li><a href="index.php">Home</a><span class="divider">/</span></li>
 						<li><a href="desarrollo-sostenible.php">Desarrollo Sostenible</a><span class="divider">/</span></li>
-						<li>Cuidado del Ambiente<span class="divider">/</span></li>
+						<li><a href="programas.php?prioridad=3">Cuidado del Ambiente</a><span class="divider">/</span></li>
 						<li class="active">Energía</li>
 					</ol>
 				</div>
@@ -46,7 +46,7 @@
 					<p class="texto-gris-2">
 						<br/><br/>
 						<span class="texto-naranja">Áreas de Cocimiento</span><br/>
-						Nuestras de Guayaquil y Quito cuentan con equipos modernos y automatizados, conformados por ollas de cereales y de cocción, que permiten la continuidad de la producción, garantizar la calidad en la cerveza y disminuir el uso de recursos, especialmente de energía.
+						Nuestras plantas de Guayaquil y Quito cuentan con equipos modernos y automatizados, conformados por ollas de cereales y de cocción, que permiten la continuidad de la producción, garantizar la calidad en la cerveza y disminuir el uso de recursos, especialmente de energía.
 					</p>
 				</div>
 			</div>
@@ -58,7 +58,7 @@
 					<p class="texto-gris-2">
 						<br/><br/>
 						<span class="texto-naranja">Evaporación al Vacío</span><br/>
-						Implementado en nuestras plantas de Guayaquil y Quito, permite reducir alrededor el consumo total de energía en la operación. Producto de la cocción del mosto se genera energía térmica, la cual es almacenada en dispositivos especiales y redirigida para generar nueva energía que se reutiliza en la producción.
+						Implementado en nuestras plantas de Guayaquil y Quito, permite reducir el consumo total de energía en la operación. Producto de la cocción del mosto se genera energía térmica, la cual es almacenada en dispositivos especiales y redirigida para generar nueva energía que se reutiliza en la producción.
 					</p>
 				</div>
 			</div>
